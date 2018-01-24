@@ -36,14 +36,14 @@
 	line-height: 3;
 }
 /* *****************NAV************** */
-.main li a {
+.nav-bar li a {
 	font-family: Raleway;
 	/* font-weight: bold; */
 	color: #0BB8C0;
 	font-size: 30px;
 }
 
-.main a:hover {
+.nav-bar a:hover {
 	background-color: rgba(4,93,97,0.1);
 }
 
