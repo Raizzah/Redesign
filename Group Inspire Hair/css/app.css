@@ -26,7 +26,8 @@
 }
 
 #mobile-menu {
-	background-color: white;
+	background-color: rgba(0,0,0,0.8);
+	background-blend-mode: lighten;
 	padding: 10px;
 }
 
