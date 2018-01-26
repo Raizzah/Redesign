@@ -13,9 +13,9 @@
 	background-color: white;
 	padding: 80px 0px;
 	/*height: 400px;
-	background-image: url("../images/logo.jpg");
+	using the image on the html*/
 	background-repeat: no-repeat;
-	background-position: center; using the image on the html*/
+	background-position: center; 
 	text-align: center;
 }
 
