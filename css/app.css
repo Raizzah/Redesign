@@ -11,14 +11,8 @@
 /* *****************HERO SECTION************** */
 .hero {
 	background-color: white;
-	padding: 0px 0px;
-	height: 270px;
-	background-image: url("../images/wlogo.png" );
-	background-repeat: no-repeat;
-	background-position: center;
 	text-align: center;
 	background-color: rgba(4,93,97,0.1);
-	margin-top: -25px;
 
 }
 
