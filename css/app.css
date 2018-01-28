@@ -11,8 +11,15 @@
 /* *****************HERO SECTION************** */
 .hero {
 	background-color: white;
-	padding: 80px 0px;
+	padding: 0px 0px;
+	height: 270px;
+	background-image: url("../images/wlogo.png" );
+	background-repeat: no-repeat;
+	background-position: center;
 	text-align: center;
+	background-color: rgba(4,93,97,0.1);
+	margin-top: -25px;
+
 }
 
 /* *****************OFF CANVAS NAV************** */
@@ -22,8 +29,7 @@
 }
 
 #mobile-menu {
-	background-color: rgba(255,255,255,0.8);
-	background-blend-mode: lighten;
+	background-color: white;
 	padding: 10px;
 }
 
@@ -33,13 +39,18 @@
 	line-height: 3;
 }
 /* *****************NAV************** */
-.nav-bar li a {
+.main li a {
 	font-family: Raleway;
+	/* font-weight: bold; */
 	color: #0BB8C0;
-	font-size: 30px;
+	font-size: 20px;
+	position: relative;
+
+
+
 }
 
-.nav-bar a:hover {
+.main a:hover {
 	background-color: rgba(4,93,97,0.1);
 }
 
@@ -48,14 +59,20 @@
 .main {
 	padding: 10px 0px;
 	text-align: center;
+  margin-top:
+
+
 }
 
 .main h1 {
 	color: #047c84;
 	font-family: Raleway;
+	margin-top: 105px;
+	padding:
 }
 
 .main p {
+	/* padding-top: 200px; */
 	font-family: Lato;
 }
 
@@ -76,17 +93,27 @@
 .main .bio li {
 	list-style: none;
 	text-align: center;
-	font-family: Lato
+	font-family: Lato;
+
+
 }
 
 .main span {
 	color: #047c84;
 	font-weight: bold;
+
 }
+
+
+/* .main a {
+	color: #7B5F76;
+} */
 
 /* *****************FOOTER************** */
 footer {
 	padding: 20px 0px;
+	background-color: rgba(4,93,97,0.1);
+	margin-top: 25px;
 }
 
 footer h4 {
