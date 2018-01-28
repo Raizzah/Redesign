@@ -12,10 +12,6 @@
 .hero {
 	background-color: white;
 	padding: 80px 0px;
-	/*height: 400px;
-	using the image on the html
-	background-repeat: no-repeat;
-	background-position: center; */
 	text-align: center;
 }
 
@@ -39,7 +35,6 @@
 /* *****************NAV************** */
 .nav-bar li a {
 	font-family: Raleway;
-	/* font-weight: bold; */
 	color: #0BB8C0;
 	font-size: 30px;
 }
@@ -61,7 +56,6 @@
 }
 
 .main p {
-	/* padding-top: 200px; */
 	font-family: Lato;
 }
 
@@ -89,9 +83,6 @@
 	color: #047c84;
 	font-weight: bold;
 }
-/* .main a {
-	color: #7B5F76;
-} */
 
 /* *****************FOOTER************** */
 footer {
