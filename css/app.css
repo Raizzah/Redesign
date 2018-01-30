@@ -103,8 +103,11 @@ a.button:hover {
 
 .main .bio li {
 	list-style: none;
-	text-align: center;
+	text-align: left;
 	font-family: Lato;
+	margin-left: -5px;
+
+	
 }
 
 .main span {
