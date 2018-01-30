@@ -103,12 +103,18 @@ a.button:hover {
 
 .main .bio li {
 	list-style: none;
-	text-align: left;
-	font-family: Lato;
-	margin-left: -5px;
+	text-align: centered;
+	
 
 	
 }
+
+ .bio li {
+	margin-top: px;
+	margin-left: -5px;
+
+	text-align: left;
+	font-family: Lato;
 
 .main span {
 	color: #047c84;
