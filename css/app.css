@@ -115,6 +115,15 @@ a.button:hover {
 
 }
 
+ .list li {
+	margin-top: px;
+	margin-left: -5px;
+  text-align: left;
+	font-family: Lato;
+
+
+}
+
 .secondary {
 	margin-top: 15px;
 	margin-bottom: 35px;
@@ -170,7 +179,7 @@ footer {
 }
 
 footer h4 {
-	color: #0BB8C0;
+	color: red;
 	font-size: 21px;
 }
 
