@@ -113,6 +113,44 @@ a.button:hover {
 
 }
 
+.secondary {
+	margin-top: 15px;
+	margin-bottom: 35px;
+	margin-left: 310px;
+	width: 65%;
+	align-content: center;
+
+}
+
+.secondary h4{
+	color: #047c84;
+	font-family: Raleway;
+	font-weight: bold;
+}
+
+.button1 {
+	font-family: Raleway;
+	font-weight: bold;
+	text-align: center;
+	background-color: #0BB8C0;
+	margin-top: 30px;
+
+}
+.main h2 {
+	color: #047c84;
+	font-family: Raleway;
+	margin-left: -355px;
+	font-size: 3em;
+
+}
+h3 {
+	color: #047c84;
+	font-family: Raleway;
+
+}
+	
+	
+	
 
 /* .main a {
 	color: #7B5F76;
