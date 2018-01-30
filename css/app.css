@@ -105,14 +105,8 @@ a.button:hover {
 	list-style: none;
 	text-align: centered;
 	
-
-	
 }
 
- .bio li {
-	margin-left: -5px;
-        text-align: left;
-	font-family: Lato;
 
 .main span {
 	color: #047c84;
@@ -175,7 +169,7 @@ footer {
 }
 
 footer h4 {
-	color: #0BB8C0;
+	color: red;
 	font-size: 21px;
 }
 
